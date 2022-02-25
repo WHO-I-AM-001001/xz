@@ -11,23 +11,27 @@ Fitur Crack
 8. Checkpoint Detedtor
 9. Setting User Agent
 10. Cek Hasil Crack
+
+
+
 Metode Crack
 Method free
 Method mbasic
 Method mfacebook
-Sandi Otomoatis
+
 nama
 nama123
 nama12345
-sayang
-Perintah Menjalankan SC
+
+
+ SC
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests bs4 futures
 $ pip install cython
-$ rm -rf roy-brute
 $ termux-setup-storage
-$ git clone https://github.com/ROY-ID/roy-brute
-$ cd roy-brute
+
+$ git clone https://github.com/ahmedAlzwage/xz
+$ cd xz
 $ git pull
-$ python run.py
+$ python libya.py
