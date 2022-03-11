@@ -55,10 +55,10 @@ def back():
 # BANNER
 def banner():
 	clear()
-	wel = '# WELCOME TO FACEBOOK 4MBF TOOLS 2022'
+	wel = '# WELCOME TO FACEBOOK  TOOLS 2022'
 	wel2 = mark(wel, style='cyan')
 	sol().print(wel2)
-	au='AUTHOR    :  40R3C\nGITHUB    :  https://github.com/40R3C\nWHATSAPP  :  087872739899'
+	au='AUTHOR    :  Alzwage\nGITHUB    :  https://github.com/AhmedAlzwage\nWHATSAPP  :  00218921762445'
 	pengembang1=nel(au,style="cyan")
 	cetak(nel(pengembang1, title='INFORMASI PENGEMBANG'))
 
@@ -83,7 +83,6 @@ def login():
 				exit()
 		except IOError:
 			login_lagi()
-	else:lisensi()
 
 # LOGIN
 def login_lagi():
